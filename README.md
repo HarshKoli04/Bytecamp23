@@ -1,4 +1,4 @@
-# project suggestion system
+# Project Recommendation System
 
 <img src=https://user-images.githubusercontent.com/86301469/226154091-b54f035f-fee5-4d91-bc0f-3a637f1307de.png>
 
