@@ -1,6 +1,6 @@
 # project suggestion system
 
-<img src="![image](https://user-images.githubusercontent.com/86301469/226154091-b54f035f-fee5-4d91-bc0f-3a637f1307de.png)">
+<img src=[image](https://user-images.githubusercontent.com/86301469/226154091-b54f035f-fee5-4d91-bc0f-3a637f1307de.png)>
 
 
 A project recommendation system is a software application designed to suggest relevant projects to users based on their skills and interests. The system uses machine learning algorithms to analyze user data, such as past projects, skills, and interactions with the platform, to recommend new projects that are likely to interest the user.
