@@ -36,5 +36,9 @@ Select skills:
 Graph:
 <img src=https://user-images.githubusercontent.com/86301469/226154277-b882baec-6f39-483f-94d3-01c75e7ee8bd.png>
 
+Guiding steps to project making:
+<img src=https://user-images.githubusercontent.com/86301469/226155488-925b9ec2-4194-4402-a27f-3a71d44b9688.png>
  
+Guiding startup strategies:
+<img src=https://user-images.githubusercontent.com/86301469/226155571-02db95b6-5bbd-4fad-9a3e-6d294f5aa7ee.png>
  
